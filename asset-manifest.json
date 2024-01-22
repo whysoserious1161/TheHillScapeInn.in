@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.510a326c.css",
+    "main.js": "/static/js/main.8e3a9641.js",
+    "static/js/787.4b564826.chunk.js": "/static/js/787.4b564826.chunk.js",
+    "static/media/devesh-sangwan-GloyvdgrzU8-unsplash.jpg": "/static/media/devesh-sangwan-GloyvdgrzU8-unsplash.d31256ee73a4a7e14cda.jpg",
+    "static/media/bg-image.jpg": "/static/media/bg-image.c62175ef15d4b87252ee.jpg",
+    "index.html": "/index.html",
+    "main.510a326c.css.map": "/static/css/main.510a326c.css.map",
+    "main.8e3a9641.js.map": "/static/js/main.8e3a9641.js.map",
+    "787.4b564826.chunk.js.map": "/static/js/787.4b564826.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.510a326c.css",
+    "static/js/main.8e3a9641.js"
+  ]
+}
